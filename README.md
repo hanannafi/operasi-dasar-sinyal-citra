@@ -1,4 +1,4 @@
-# Operasi Dasar Sinyal dan Citra
+# Eksperimen Operasi Dasar pada Sinyal
 
 ## Identitas Mahasiswa
 
@@ -45,7 +45,7 @@ Project ini menggunakan beberapa library Python berikut.
 1. Clone repository GitHub.
 
 ```bash
-git clone https://github.com/username/operasi-dasar-sinyal-citra.git
+git clone https://github.com/hanannafi/operasi-dasar-sinyal-citra.git
 ```
 
 2. Masuk ke folder project.
